@@ -1,0 +1,6 @@
+{
+  "name": "سیناپس",
+  "description": "سامانه بازیابی همبست عصبی و تعادل مجدد دوپامین با طراحی مدرن و کاملاً فارسی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
